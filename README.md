@@ -4,7 +4,8 @@ Fyyur
 ![fyurr](https://user-images.githubusercontent.com/833824/81595700-ec76be00-9390-11ea-8e41-f1077c89ecc8.jpg)
 
 
------
+
+
 ### Introduction
 
 Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner.
